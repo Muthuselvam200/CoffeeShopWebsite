@@ -1,0 +1,122 @@
+* {
+  font-family:'Times New Roman', Times, serif;
+}
+#indexpage{
+  background-image:url("../Images/Coffee_background-medium.jpg");
+}
+
+#content {
+  color: white;
+}
+
+#heading1{
+  color:black;
+  font-weight: bold;
+  font-size: 7rem;
+  font-style: italic;
+  background-color: burlywood;
+  text-align: center;
+  margin: 0 0 0 0 ;
+}
+#heading2, #heading3 {
+  color:black;
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  margin:2px solid black;
+}
+
+a {
+  color: black;
+  ;
+}
+
+#Contenthead {
+  font-size: 40px;
+  text-align: center;
+}
+
+#indexlink {
+  color: white;
+}
+
+#bgroundinabout {
+  background-color: burlywood;
+}
+
+li {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+#coffeedetails {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#coffee {
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+#bgroundintimings {
+  background-color: burlywood;
+}
+
+#workinghour {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 500px;
+}
+
+table {
+  text-align: center;
+  background-color:black;
+  font-size: 3rem;
+}
+
+#row1 {
+  background-color: grey;
+}
+
+#row2 {
+  background-color: lightslategray;
+}
+
+#bgroundinhome {
+  background-color: burlywood;
+}
+
+#order {
+  font-size: 2rem;
+  text-align: left;
+}
+
+#userdetails {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+input[type=text],[type=email],[type=password],[type=tel],[type=number] {
+  border: 2px solid skyblue;
+  border-radius: 4px;
+  margin: 8px;
+  padding: 10px;
+}
+
+#resetbutton,#submitbutton {
+  border: 2px solid black;
+  border-radius: 4px;
+  margin: 8px;
+  padding: 10px;
+  width: 10rem;
+  color: black;
+  font-weight: bold;
+  background-color: burlywood;
+}
+
+#copyright {
+  font-weight: bold;
+  font-size: 1rem;
+  text-align: bottom;
+}
