@@ -1,0 +1,31 @@
+*{
+  font-family: verdana;
+  font-weight: bold;
+}
+body{
+  background-image: radial-gradient( powderblue 20%, chocolate);
+}  
+
+#workinghour{
+  font-size: 3rem;
+  text-align: center;
+  text-decoration: underline;
+  font-style: italic;
+}
+table{
+  background-color:black;
+  font-size: 2rem;
+}
+#row1{
+  background-color: grey;
+}
+#row2{
+  background-color: lightgrey;
+}
+#copyright{
+  text-align: center;
+}
+button{
+  background-color: blue;
+  color:white;
+}

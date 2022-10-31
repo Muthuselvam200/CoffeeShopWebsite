@@ -1,0 +1,32 @@
+*{
+  font-family: verdana;
+  font-weight: bold;
+  background-color: burlywood;
+}
+h1{
+  font-size: 5rem;
+  text-align: center;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+#coffee{
+  font-size: 3rem;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+#coffeedetails, ul{
+  font-size: 1.5rem;
+}
+a:hover, #backbtn{
+  color: white;
+}
+a:visited{
+  color: brown;
+}
+#backbtn{
+  background-color: tomato;
+  color: white;
+  font-size:1rem;
+}

@@ -1,0 +1,28 @@
+
+*{
+  font-family:verdana;
+  font-weight: bold;
+}
+#indexpage{
+  background-image: url("./Images/Coffee_background-medium.jpg");
+}
+
+.contenthead{
+  text-align: center;
+}
+
+a #indexlink{
+  color:white;
+  font-size: 3rem;
+}
+
+a:hover{
+  color:black;
+}
+
+h1{
+  font-size: 6rem;
+  background-color: burlywood;
+  font-style: italic;
+  text-align: center;
+}
