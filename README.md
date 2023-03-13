@@ -1,4 +1,4 @@
-# Coffee-Shop_Website
+# Coffee-Shop-Website
 - In this repository, I added some pages from what I learned from HTML and CSS.
 - I designed a coffee shop website from my understanding.
 - I named the coffee shop "Coffee palace".
