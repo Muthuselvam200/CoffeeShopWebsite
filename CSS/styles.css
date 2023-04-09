@@ -150,3 +150,12 @@ header .header-titles ul li a:hover {
   background-color: cadetblue;
   cursor: pointer;
 }
+
+footer {
+  background-color: cadetblue;
+  padding: 10px;
+}
+
+footer {
+  text-align: center;
+}
