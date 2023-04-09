@@ -1,6 +1,10 @@
 ### Coffee-Shop-Website
 ____
 
+### :computer: Project video demo:
+
+https://user-images.githubusercontent.com/114568869/230764344-c05aa856-7ab0-4c02-aefd-d5e9e5b474cc.mp4
+
 ### :man_technologist: About the project:
 
 - In this repository, I added some pages from what I learned from HTML and CSS.
