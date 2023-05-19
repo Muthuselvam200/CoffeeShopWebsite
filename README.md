@@ -3,7 +3,7 @@ ____
 
 ### :computer: Project video demo:
 
-https://user-images.githubusercontent.com/114568869/230764344-c05aa856-7ab0-4c02-aefd-d5e9e5b474cc.mp4
+https://coffee-palace-website.netlify.app/
 
 ### :man_technologist: About the project:
 
